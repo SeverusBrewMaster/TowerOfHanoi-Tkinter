@@ -24,7 +24,7 @@ The Tower of Hanoi is a mathematical puzzle where:
 The minimum number of moves required to solve the puzzle is `(2^N - 1)` where `N` is the number of disks.
 
 ## Screenshots
-![Screenshot of the game](images/tower_of_hanoi_screenshot.png "Tower of Hanoi Game Screenshot")
+![Screenshot of the game](TowerOfHanoi.png "Tower of Hanoi Game Screenshot")
 
 ## Installation and Setup
 
